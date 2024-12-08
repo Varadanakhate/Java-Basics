@@ -1,2 +1,5 @@
+<<<<<<< HEAD
+System.out.println("Hello World");
+=======
+System.out.println("varada");
 
-hello just given an outlook of basics of java
